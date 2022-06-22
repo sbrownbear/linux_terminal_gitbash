@@ -1,4 +1,7 @@
-# linux_terminal_gitbash
+## LinuxTerminalGitbash
+
+Остальные команды [Basic Linux Commands](https://drive.google.com/file/d/1tipRUVbNA9AE7wEDbyFuU5k0p2LaCNyO/view?usp=sharing)
+
 `pwd` где находимся
 
 `clear` стереть
