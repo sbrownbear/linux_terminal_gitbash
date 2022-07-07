@@ -1,6 +1,7 @@
-## LinuxTerminalGitbash
+`HW_GitBash.txt` - домашнее задание с курса QA Вадима Ксендзова
+_____________
 
-Остальные команды [Basic Linux Commands](https://drive.google.com/file/d/1tipRUVbNA9AE7wEDbyFuU5k0p2LaCNyO/view?usp=sharing)
+[<img alt='EF_SET' height='1200' src='basic_linux_commands.jpg'>](https://drive.google.com/drive/u/1/folders/1I5SFTFnfFdb6j0ERLL5f6bOXvM6if7Xq)
 
 `pwd` где находимся
 
