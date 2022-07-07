@@ -1,7 +1,7 @@
 `HW_GitBash.txt` - домашнее задание с курса QA Вадима Ксендзова
 _____________
 
-[<img alt='EF_SET' height='1200' src='basic_linux_commands.jpg'>](https://drive.google.com/drive/u/1/folders/1I5SFTFnfFdb6j0ERLL5f6bOXvM6if7Xq)
+[<img alt='basic linux commands' height='1200' src='basic_linux_commands.jpg'>](https://drive.google.com/drive/u/1/folders/1I5SFTFnfFdb6j0ERLL5f6bOXvM6if7Xq)
 
 `pwd` где находимся
 
