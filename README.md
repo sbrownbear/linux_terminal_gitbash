@@ -1,4 +1,4 @@
-`HW_GitBash.txt` - домашнее задание с курса QA Вадима Ксендзова
+`HW_GitBash.txt` - домашнее задание с курса QA Вадима Ксендзова (pwd, mkdir, cd, touch, cp, mv, cat, vim, grep, less, pull).
 _____________
 
 `pwd` где находимся
